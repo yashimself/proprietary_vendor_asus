@@ -236,6 +236,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/fugu/proprietary/vendor/lib/libPVRScopeServices.so:system/vendor/lib/libPVRScopeServices.so \
     vendor/asus/fugu/proprietary/vendor/lib/libeffects.so:system/vendor/lib/libeffects.so \
     vendor/asus/fugu/proprietary/vendor/lib/libglslcompiler.so:system/vendor/lib/libglslcompiler.so \
+    vendor/asus/fugu/proprietary/vendor/lib/liboemcrypto.so:system/vendor/lib/liboemcrypto.so \
     vendor/asus/fugu/proprietary/vendor/lib/libpvrcpt.so:system/vendor/lib/libpvrcpt.so \
     vendor/asus/fugu/proprietary/vendor/lib/libseppr_hal.so:system/vendor/lib/libseppr_hal.so \
     vendor/asus/fugu/proprietary/vendor/lib/libsrv_um.so:system/vendor/lib/libsrv_um.so \
